@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Welcome to my profile 👋</h1>
 
-<p> Hi my name is João Mateus I´m a Information Systems student, fascinated with technology, innovation and a CyberSecurity enthusiastic. For now I´m working on my journey to get a oportunity as a Front-end Developer I´m always learning and trying to build new things. The technologies that I use in most of the time are HTML5, CSS3, Javascript and MySQL databases, but I also have some knowledge in Python that is something I´ve Been studying in my free time. </p>
+<p  align="center"> Hi my name is João Mateus I´m a Information Systems student, fascinated with technology, innovation and a CyberSecurity enthusiastic. For now I´m working on my journey to get a oportunity as a Front-end Developer I´m always learning and trying to build new things. The technologies that I use in most of the time are HTML5, CSS3, Javascript and MySQL databases, but I also have some knowledge in Python that is something I´ve Been studying in my free time. </p>
 
 <h3 align="center">Front-end Developer </h3>
 
