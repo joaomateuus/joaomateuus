@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
 
 
- <div align="center"  heigth="50" width="60">
+ <div align="center" >
 
   <span>
 
-   <img src="https://user-images.githubusercontent.com/80249973/126725443-5553175a-2213-4573-97b3-a641cecd13e0.png)"/>
+   <img src="https://user-images.githubusercontent.com/80249973/126725443-5553175a-2213-4573-97b3-a641cecd13e0.png)" heigth="50" width="60"/>
 
-   <img src="https://user-images.githubusercontent.com/80249973/126725360-2bd870ec-0467-4db2-afab-90140f27aa68.png)"/>
+   <img src="https://user-images.githubusercontent.com/80249973/126725360-2bd870ec-0467-4db2-afab-90140f27aa68.png)" heigth="50" width="60"/>
 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" heigth="50" width="60"/>
    
-    <img src="![image](https://user-images.githubusercontent.com/80249973/126725476-377842dc-05d4-455c-bd51-dcddea0637cc.png)"/>
+    <img src="![image](https://user-images.githubusercontent.com/80249973/126725476-377842dc-05d4-455c-bd51-dcddea0637cc.png)" heigth="50" width="60"/>
 
   </span>
 
@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg" heigth="50" width="60"/>
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original-wordmark.svg"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original-wordmark.svg" heigth="50" width="60"/>
  </div>
 
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
   <li align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original-wordmark.svg"> 
+   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original-wordmark.svg" heigth="50" width="60"> 
 
     Linkedin
 
