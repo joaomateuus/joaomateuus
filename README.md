@@ -74,9 +74,9 @@ Here are some ideas to get you started:
  
 <br>
 
-<h3 align="center">Connect with me:</h3>
-<img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="center" heigth="50" width="60"/>
-<li align="center">
+<h3 align="left">Connect with me:</h3>
+<img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="left" heigth="50" width="60"/>
+<li align="left">
  <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="left">Linkedin</a>
 </li>
  
