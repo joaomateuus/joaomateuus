@@ -65,6 +65,8 @@ Here are some ideas to get you started:
  </div>
  
 <br>
+<br>
+<br>
 
 <div align="center">
 
@@ -72,6 +74,8 @@ Here are some ideas to get you started:
 
 </div>
  
+<br>
+<br>
 <br>
 
 <h3 align="left">Connect with me:</h3>
