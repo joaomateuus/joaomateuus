@@ -73,7 +73,7 @@ Here are some ideas to get you started:
  
 <br>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <li align="center">
  <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="center">Linkedin</a>
 </li>
