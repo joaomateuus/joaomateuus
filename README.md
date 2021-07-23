@@ -77,10 +77,6 @@ Here are some ideas to get you started:
 
   <li align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="center" heigth="50" width="60" > 
+   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="center" heigth="50" width="60">Linkedin </a>
 
-    Linkedin
-
-   </a>
-
-  </li>
+   </li>
