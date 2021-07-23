@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
   <span>
 
-   <img src="https://user-images.githubusercontent.com/80249973/126725443-5553175a-2213-4573-97b3-a641cecd13e0.png)" heigth="50" width="60"/>
+   <img src="https://img2.gratispng.com/20180330/owe/kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401.6404065315224546007438.jpg)" heigth="50" width="60"/>
 
    <img src="https://user-images.githubusercontent.com/80249973/126725360-2bd870ec-0467-4db2-afab-90140f27aa68.png)" heigth="50" width="60"/>
 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" heigth="50" width="60"/>
+   <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" heigth="50" width="60"/>
    
-    <img src="![image](https://user-images.githubusercontent.com/80249973/126725476-377842dc-05d4-455c-bd51-dcddea0637cc.png)" heigth="50" width="60"/>
+    <img src="https://img.icons8.com/color/452/javascript--v1.png" heigth="50" width="60"/>
 
   </span>
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
   <li align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original-wordmark.svg" heigth="50" width="60"> 
+   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://logospng.org/download/linkedin/logo-linkedin-2048.png" heigth="50" width="60"> 
 
     Linkedin
 
