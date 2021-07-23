@@ -79,6 +79,6 @@ Here are some ideas to get you started:
 </li>
  
 
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="center" heigth="50" width="60"/>
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" align-item="center" heigth="50" width="60"/>
 
 
