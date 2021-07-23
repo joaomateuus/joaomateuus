@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomateuus&layout=compact&theme=tokyonight)](https://github.com/joaomateuus/github-readme-stats)
 </div>
+
 
 <br>
 <br>
