@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
 
 
- <div align="center">
+ <div align="center"  heigth="50" width="60">
 
   <span>
 
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img src="https://user-images.githubusercontent.com/80249973/126725443-5553175a-2213-4573-97b3-a641cecd13e0.png)"/>
 
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://user-images.githubusercontent.com/80249973/126725360-2bd870ec-0467-4db2-afab-90140f27aa68.png)"/>
 
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg"/>
    
-    <img src="https://img.shields.io/badge/tested_with-jest-99424f.svg"/>
+    <img src="![image](https://user-images.githubusercontent.com/80249973/126725476-377842dc-05d4-455c-bd51-dcddea0637cc.png)"/>
 
   </span>
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3> Frameworks </h3>
+<h3 heigth="50" width="60"> Frameworks </h3>
 
 <div align="center">
  
