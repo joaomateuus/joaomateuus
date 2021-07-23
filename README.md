@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
 
 <h3 heigth="50" width="60"> Frameworks </h3>
 
@@ -75,10 +76,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <li align="center">
- <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="center">Linkedin</a>
+ <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="left">Linkedin</a>
+ <img src="https://image.flaticon.com/icons/png/512/174/174857.png" align-item="center" heigth="50" width="60"/>
 </li>
  
 
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" align-item="center" heigth="50" width="60"/>
+  
 
 
