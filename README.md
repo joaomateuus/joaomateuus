@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
   <span>
 
-   <img src="https://img2.gratispng.com/20180330/owe/kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401.6404065315224546007438.jpg)" heigth="50" width="60"/>
+   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)" heigth="50" width="60"/>
 
-   <img src="https://user-images.githubusercontent.com/80249973/126725360-2bd870ec-0467-4db2-afab-90140f27aa68.png)" heigth="50" width="60"/>
+   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png)" heigth="50" width="60"/>
 
    <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" heigth="50" width="60"/>
    
-    <img src="https://img.icons8.com/color/452/javascript--v1.png" heigth="50" width="60"/>
+    <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" heigth="50" width="60"/>
 
   </span>
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
   <li align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://logospng.org/download/linkedin/logo-linkedin-2048.png" heigth="50" width="60"> 
+   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://image.flaticon.com/icons/png/512/174/174857.png" heigth="50" width="60"> 
 
     Linkedin
 
