@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
- <div align="center" display="flex" justify-content:"space-evenly">
+ <div align="center" background-color="white">
 
   <span>
 
