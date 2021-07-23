@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   <span>
 
-   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" heigth="50" width="60"/>
+   <img src="https://midia.ag/wp-content/uploads/2016/05/talk-sobre-html-javascript-js-css-femug-ramiro-1024x600.png" heigth="50" width="60"/>
 
    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" heigth="50" width="60"/>
 
