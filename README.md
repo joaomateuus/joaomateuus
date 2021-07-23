@@ -29,13 +29,12 @@ Here are some ideas to get you started:
 
   <span>
 
-   <img src="https://midia.ag/wp-content/uploads/2016/05/talk-sobre-html-javascript-js-css-femug-ramiro-1024x600.png" heigth="50" width="60"/>
+   <img src="https://midia.ag/wp-content/uploads/2016/05/talk-sobre-html-javascript-js-css-femug-ramiro-1024x600.png" heigth="100" width="60"/>
 
-   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" heigth="50" width="60"/>
-
+   
    <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" heigth="50" width="60"/>
    
-    <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" heigth="50" width="60"/>
+   
 
   </span>
 
