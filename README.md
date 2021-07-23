@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Welcome to my profile 👋</h1>
 
-<p  align="center"> Hi my name is João Mateus, I´m a Information Systems student fascinated with technology, innovation and a CyberSecurity enthusiastic. For now I´m working on my journey to get a oportunity as a Front-end Developer, I´m always learning and trying to build new things. The technologies that I use in most of the time are HTML5, CSS3, Javascript and MySQL databases, but I also have some knowledge in Python and Kotlin that is something I´ve Been studying in my free time. </p>
+<p  align="center"> Hi my name is João Mateus, I´m a Information Systems student fascinated with technology, innovation and a CyberSecurity enthusiastic. I´m working as a front end developer and I´m always learning and trying to build new things. The technologies that I use in most of the time are HTML5, CSS3, TypeScript and Javascript for frameworks Angular (using it for work projects) and Vue.js, but I also have some knowledge in Python and Kotlin that is something I´ve Been studying in my free time. </p>
 
 <h3 align="center">Front-end Developer </h3>
 
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   
+    <img src="https://img.shields.io/badge/tested_with-jest-99424f.svg"/>
 
   </span>
 
@@ -50,6 +52,15 @@ Here are some ideas to get you started:
 </div>
 
 
+<h3> Frameworks </h3>
+
+<div align="center">
+ 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg"/>
+ 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original-wordmark.svg"/>
+ </div>
+
 
 <div align="center">
 
@@ -57,19 +68,13 @@ Here are some ideas to get you started:
 
 </div>
 
+<h3 align="center">Connect with me:</h3>
 
-
-
-
- <h3 align="center">Connect with me:</h3>
-
-  
-
- <p align="left">
+   <p align="left">
 
   <li align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" img> 
+   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original-wordmark.svg"> 
 
     Linkedin
 
