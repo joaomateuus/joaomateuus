@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
   <span>
 
-   <img src="https://midia.ag/wp-content/uploads/2016/05/talk-sobre-html-javascript-js-css-femug-ramiro-1024x600.png" heigth="400" width="200"/>
-
+   <img src="https://user-images.githubusercontent.com/80249973/126726480-1285c6c4-d83b-4c84-9470-5a93c983acc4.png" heigth="50" width="60"/>
    
+   <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" heigth="50" width="60"/>
+
    <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" heigth="50" width="60"/>
    
    
