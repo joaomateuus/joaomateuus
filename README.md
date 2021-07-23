@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
   <span>
 
-   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)" heigth="50" width="60"/>
+   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" heigth="50" width="60"/>
 
-   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png)" heigth="50" width="60"/>
+   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" heigth="50" width="60"/>
 
    <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" heigth="50" width="60"/>
    
