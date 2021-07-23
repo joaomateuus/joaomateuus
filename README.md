@@ -60,21 +60,24 @@ Here are some ideas to get you started:
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original-wordmark.svg" heigth="50" width="60"/>
  </div>
-
+ 
+<br>
 
 <div align="center">
 
 - 📫 How to reach me **joaomateusmoraisdeamaral@gmail.com**
 
 </div>
+ 
+<br>
 
 <h3 align="center">Connect with me:</h3>
 
-   <p align="left">
+   <p align="center">
 
   <li align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://image.flaticon.com/icons/png/512/174/174857.png" heigth="50" width="60"> 
+   <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" <img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="center" heigth="50" width="60" > 
 
     Linkedin
 
