@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Helloo!!!</h1>
-
 <h1 align="center">Welcome to my profile 👋</h1>
 
 <p  align="center">Hi my name is João Mateus, I´m a Information Systems student fascinated with technology, innovation and a CyberSecurity enthusiastic,  I´m working as a front end developer and I´m always learning and trying to build new things. The technologies that I use in most of the time are HTML5, CSS3, TypeScript(angular) and Javascript, for frameworks Angular (using it for work projects) and Vue.js, but I also have some knowledge in Python and Kotlin that is something I´ve Been studying in my free time.</p>
