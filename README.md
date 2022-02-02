@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Welcome to my profile</h1>
 
-<p  align="justify"> Hi my name is João Mateus, I´m a Information Systems student fascinated with technology, innovation a CyberSecurity enthusiastic and frontend developer. 
+<p  align="justify">My name is João Mateus, I´m a Information Systems student fascinated with technology, innovation a CyberSecurity enthusiastic and frontend developer. 
 I´m always learning and trying to build new things. The technologies that I use in most of the time are HTML5, CSS3,  Javascript and TypeScript (angular) for frameworks Vue., React.js and angular that I´ve already worked with. I also have some knowledge in Python and Kotlin that is something I´ve Been studying in my free time..</p>
 
 <br>
@@ -56,7 +56,7 @@ I´m always learning and trying to build new things. The technologies that I use
 
 <div align="center">
 
-- 📫 How to reach me **joaomateusmoraisdeamaral@gmail.com**
+- 📫 How to reach me: **joaomateusmoraisdeamaral@gmail.com**
 
 </div>
  
