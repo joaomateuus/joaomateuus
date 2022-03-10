@@ -50,7 +50,7 @@ I´m always learning and trying to build new things. The technologies that I use
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="left" heigth="50" width="60"/>
+<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" align="left" heigth="50" width="60"/>
 <li align="left">
  <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="left">Linkedin</a>
 </li>
