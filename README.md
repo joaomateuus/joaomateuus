@@ -30,7 +30,7 @@ I´m always learning and trying to build new things. The technologies that I use
 <h3 heigth="50" width="60"> Frameworks: </h3>
 <div align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original-wordmark.svg" heigth="50" width="60"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" heigth="50" width="60"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" heigth="60" width="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg" heigth="50" width="60"/> 
 </div>
  
