@@ -1,6 +1,5 @@
-### Hi there👋
 
-<h1 align="center">Welcome to my profile!!</h1>
+<h1 align="center">Welcome to my profile👋!!</h1>
 
 <p  align="justify">My name is João Mateus, I´m a Information Systems student fascinated with technology, innovation a CyberSecurity enthusiastic and frontend developer. 
 I´m always learning and trying to build new things. The technologies that I use in most of the time are HTML5/CSS3, Vue, React (Javascript and TypeScript) and angular that I´ve already worked with. I also have some knowledge in Python and Kotlin that is something I´ve Been studying in my free time</p>
