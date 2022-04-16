@@ -44,13 +44,13 @@ I´m always learning and trying to build new things. The technologies that I use
 </div>
 
 
- 
-<div align="center">
+<div align="left">
 
 📫 How to reach me: **joaomateusmoraisdeamaral@gmail.com**
 
 </div>
 
+![gif](https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif)
 
  
 
