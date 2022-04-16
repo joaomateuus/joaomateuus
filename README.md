@@ -32,7 +32,7 @@ I´m always learning and trying to build new things. The technologies that I use
 </div>
 <br
 <div align="start">
- <h3 height="50" width="60">Look What I´m studying📚</h3>
+ <h3 height="50" width="60">Look what I´m studying📚</h3>
  <button><a href="https://telling-script-0d7.notion.site/Estudos-dfaec3d6355e4d1ea781cfb76fd67aa4"><img  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" heigth="50" width="60" /></a></button>
 
 
