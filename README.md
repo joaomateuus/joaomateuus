@@ -30,20 +30,21 @@ I´m always learning and trying to build new things. The technologies that I use
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" heigth="70" width="65"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg" heigth="50" width="60"/> 
 </div>
-<br
+
 <div align="start">
  <h3 height="50" width="60">Look what I´m studying📚</h3>
  <button><a href="https://telling-script-0d7.notion.site/Estudos-dfaec3d6355e4d1ea781cfb76fd67aa4"><img  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" heigth="50" width="60" /></a></button>
 
 
- <h3 align="right">Connect with me:</h3>
- <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" align="right" heigth="50" width="60"/>
- <li align="right">
-  <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="right">Linkedin</a>
- </li>
+ 
+ <div align="center">
+  <h3 align="center">Connect with me:</h3>
+  <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" heigth="50" width="60"/>
+  <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="center">Linkedin</a>
 </div>
 
-
+<br>
+<br>
 <div align="left">
 
 📫 How to reach me: **joaomateusmoraisdeamaral@gmail.com**
