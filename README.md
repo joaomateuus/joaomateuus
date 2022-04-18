@@ -37,10 +37,11 @@ I´m always learning and trying to build new things. The technologies that I use
 
 
  
- <div align="center">
-  <h3 align="center">Connect with me:</h3>
-  <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" heigth="50" width="60"/>
-  <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="center">Linkedin</a>
+ <div align="leftr">
+  <h3 align="left">Connect with me:</h3>
+  <a class="url" href="https://www.linkedin.com/in/jo%C3%A3omateus-/" align="center">
+   <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" heigth="50" width="60"/>
+  </a>
 </div>
 
 <br>
