@@ -52,9 +52,11 @@ I´m always learning and trying to build new things. My main technologies are Vu
 
 </div>
 
+ <div align="center">
+ 
 ![gif](https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif)
 
- 
+ </div>
 
   
 
