@@ -1,14 +1,11 @@
 
 <h1 >Welcome to my profile!</h1>
 
-
-<div>
   <p  align="justify">My name is João Mateus, I´m a Information Systems student fascinated with technology, innovation a CyberSecurity enthusiastic and frontend developer. 
   I´m always learning and trying to build new things. My main technologies are Vue, React(HTML5/CSS3/JS) and angular that I´ve already worked with. I also have some knowledge in Python and Kotlin that is something I´ve Been studying in my free time.</p>
-</div>
 
-<div align="center">
- 
+
+<div align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomateuus&layout=compact&theme=tokyonight)](https://github.com/joaomateuus/github-readme-stats)
 </div>
 
@@ -16,34 +13,20 @@
 
 <div float="left">
  
-  <h3 align="center">Front-end Developer🎨</h3>
+  <h3 align="left">Front-end Developer🎨</h3>
     <code><img height="20"<img src="https://user-images.githubusercontent.com/80249973/126726480-1285c6c4-d83b-4c84-9470-5a93c983acc4.png"></code>
-    <code><img height="20"<img src="https://user-images.githubusercontent.com/80249973/126726480-1285c6c4-d83b-4c84-9470-5a93c983acc4.png"></code>
-    <code><img height="20"<img src="https://user-images.githubusercontent.com/80249973/126726480-1285c6c4-d83b-4c84-9470-5a93c983acc4.png"></code>
-    <code><img height="20"<img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png">
-    <code><img height="20"<img src="https://user-images.githubusercontent.com/80249973/126726480-1285c6c4-d83b-4c84-9470-5a93c983acc4.png"></code>
-    <code><img height="20"<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" heigth="50" width="60"/>
+    <code><img height="20"<img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png"></code>
+    <code><img height="20"<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   
-   <h3 heigth="50" width="60"> Frameworks🛠️</h3>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+   <h3 align="left"> Frameworks🛠️</h3>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
                                                                                                      
   </div>                    
-   
-  <div align="center" background-color="white">
-   
- 
-                                                                                                        
-   <div align="center">
-    
-  </div>                                                                                                      
+                                                                                                  
                                                                                                                                                                                                      
 </div>
 <br>
