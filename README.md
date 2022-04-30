@@ -42,7 +42,7 @@
 </div>
 
  <div align="center">
-   <h3 align="left" height="50" width="60">Look what I´m studying📚</h3>
+   <h3 height="50" width="60">Look what I´m studying📚</h3>
      <a target="_blank" href="">
       <img  align="left "src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" heigth="50" width="60" />
     </a>
