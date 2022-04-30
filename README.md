@@ -6,7 +6,9 @@
 
 
 <div align="left">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomateuus&layout=compact&theme=tokyonight)](https://github.com/joaomateuus/github-readme-stats)
+  
 </div>
 
 <br>
