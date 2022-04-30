@@ -13,7 +13,7 @@ I´m always learning and trying to build new things. My main technologies are Vu
 
 <br>
 
-<div style="display: flex; align-items: flex-start;>
+<div float="left">
  
   <h3 align="center">Front-end Developer🎨</h3>
     <img src="https://user-images.githubusercontent.com/80249973/126726480-1285c6c4-d83b-4c84-9470-5a93c983acc4.png" heigth="1500" width="100"/>
