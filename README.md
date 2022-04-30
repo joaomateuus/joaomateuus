@@ -22,9 +22,7 @@
   
    <h3 align="left"> Frameworks🛠️</h3>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-                                                                                                     
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>                                                                                                     
   </div>                    
                                                                                                   
                                                                                                                                                                                                    
@@ -33,9 +31,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3omateus-/">
     <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a target="_blank" href="https://dev.to/aryclenio/">
-    <img alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-  </a>
+ 
   <a target="_blank" href="mailto:joaomateusmoraisdeamaral@gmail.com">
     <img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
