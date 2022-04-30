@@ -11,8 +11,6 @@
   
 </div>
 
-<br>
-
 <div float="left">
  
   <h3 align="left">Front-end Developer🎨</h3>
@@ -29,11 +27,7 @@
                                                                                                      
   </div>                    
                                                                                                   
-                                                                                                                                                                                                     
-</div>
-<br>
-<br>
-
+                                                                                                                                                                                                   
 <div float="left">
  <h3 height="50" width="60">Connect With me</h3>
   <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3omateus-/">
