@@ -16,19 +16,22 @@ I´m always learning and trying to build new things. My main technologies are Vu
 <div style="display: flex; align-items: flex-start;>
  
   <h3 align="center">Front-end Developer🎨</h3>
-  <div align="center" background-color="white">
-   <span>
+  <span>
     <img src="https://user-images.githubusercontent.com/80249973/126726480-1285c6c4-d83b-4c84-9470-5a93c983acc4.png" heigth="1500" width="100"/>
     <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" heigth="50" width="60"/>
     <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" heigth="50" width="60"/>
    </span>
-  </div>
-                                                                                                        
-   <div align="center">
    <h3 heigth="50" width="60"> Frameworks🛠️</h3>
    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original-wordmark.svg" heigth="50" width="60"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" heigth="70" width="65"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg" heigth="50" width="60"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg" heigth="50" width="60"/>                                                                                                     
+                                                                                                        
+  <div align="center" background-color="white">
+   
+  </div>
+                                                                                                        
+   <div align="center">
+    
   </div>                                                                                                      
                                                                                                                                                                                                      
 </div>
