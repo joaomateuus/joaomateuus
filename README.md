@@ -38,39 +38,30 @@
  
 
 
-<div align="start">
+<div float="left">
  <h3 height="50" width="60">Look what I´m studying📚</h3>
- <button><a href="https://telling-script-0d7.notion.site/Estudos-dfaec3d6355e4d1ea781cfb76fd67aa4"><img  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" heigth="50" width="60" /></a></button>
+ <button>
+   <a href="https://telling-script-0d7.notion.site/Estudos-dfaec3d6355e4d1ea781cfb76fd67aa4">
+     <img  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" heigth="50" width="60" />
+   </a>
+ </button>
 
 
  
  
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3omateus-/">
   <img align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left"   alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left"  alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://dev.to/aryclenio/">
   <img align="left"  alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+<a target="_blank" href="mailto:joaomateusmoraisdeamaral@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://fb.com/aryxb">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
-<br>
-<br>
-<div align="left">
 
-📫 How to reach me: **joaomateusmoraisdeamaral@gmail.com**
 
-</div>
+
 <br>
  
  <div align="center">
