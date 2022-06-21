@@ -5,12 +5,6 @@
   I´m always learning and trying to build new things. My main technologies are Vue, React(HTML5/CSS3/JS) and angular that I´ve already worked with. I also have some knowledge in Python and Kotlin that is something I´ve Been studying in my free time.</p>
 
 
-<div align="left">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomateuus&layout=compact&theme=tokyonight)](https://github.com/joaomateuus/github-readme-stats)
-  
-</div>
-
 <div float="left">
  
   <h3 align="left">Front-end Developer🎨</h3>
@@ -25,7 +19,11 @@
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>                  <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png"></code>                                                         
   </div>                    
                                                                                                   
-                                                                                                                                                                                                   
+<div align="left">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomateuus&layout=compact&theme=tokyonight)](https://github.com/joaomateuus/github-readme-stats)
+  
+</div>                                                                                                                                                                                                   
  <div align="center">
  <h3 height="50" width="60">Connect With me</h3>
   <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3omateus-/">
