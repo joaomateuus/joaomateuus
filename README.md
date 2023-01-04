@@ -1,22 +1,25 @@
 
 <h1 >Hii welcome to my profile!!</h1> 
 
-  <p  align="justify">My name is João Mateus, I´m a Information Systems student fascinated with technology, innovation a CyberSecurity enthusiastic and frontend developer. 
-  I´m always learning and trying to build new things. My main technologies are vue and react(HTML5/CSS3/JS) and angular that I´ve already worked with. I also have some knowledge in Python and Kotlin that is something I´ve Been studying in my free time</p>
+<p  align="justify">Hi my name is João Mateus, Information Systems student fascinated by technology, innovation, and always studying and trying to create new things.
+
+ Im a Fullstack developer with experience building Restful APIs and user interfaces mainly in python and javascript using django, node.js and js frameworks like vue, react, nuxt and next. Currently working with those languages too and studying native android development with kotlin
+
+Current Domain Interests: Restful APIs best practices and design, Data structures and algorithms, Solid OOP, TDD, Android application development, Responsive Web Design, UX/UI</p>
 
 
 <div float="left">
  
-  <h3 align="left">Front-end Developer🎨</h3>
-    <code><img height="20"<img src="https://user-images.githubusercontent.com/80249973/126726480-1285c6c4-d83b-4c84-9470-5a93c983acc4.png"></code>
+  <h3 align="left">Software Developer</h3>
     <code><img height="20"<img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png"></code>
     <code><img height="20"<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  
+    <code><img height="20" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg"></code>
+    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
+    
    <h3 align="left"> Frameworks🛠️</h3>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>            
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>                  <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png"></code>                                                         
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>                  <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png"></code>
+   <code><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></code>
   </div>                    
  <br>
  
