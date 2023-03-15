@@ -5,7 +5,7 @@
 
  Im a Fullstack developer with experience building Restful APIs and user interfaces mainly in python and javascript using django, node.js and js frameworks like vue, react, nuxt and next. Currently working with those languages too and studying native android development with kotlin
 
-Current Domain Interests: Restful APIs best practices and design, Data structures and algorithms, Solid OOP, TDD, Android application development, Responsive Web Design, UX/UI</p>
+Current Domain Interests: Restful APIs best practices and design, Data structures and algorithms, Solid OOP, TDD, Android application development, Responsive Web Design, UX/UI.</p>
 
 
 <div float="left">
