@@ -1,9 +1,9 @@
 
 <h1 >Hii welcome to my profile!!</h1> 
 
-<p  align="justify">Hi my name is João Mateus, Information Systems student fascinated by technology, innovation, and always studying and trying to create new things.
+<p  align="justify">Hi my name is João Mateus, fullstack developer and Information Systems student fascinated by technology, innovation, always studying and trying to create new things.
 
- Im a Fullstack developer with experience building Restful APIs and user interfaces mainly in python and javascript using django, node.js and js frameworks like vue, react, nuxt and next. Currently working with those languages too and studying native android development with kotlin
+ Im experienced in creating RESTful APIs and user-friendly and responsive interfaces, primarily with Python and TypeScript using django, node.js and js frameworks like vue, react, nuxt, next on the frontend, and studying native android development with kotlin. Currently, a developer at the Innovation Hub (Polo de Inovação - IFAM) and intern at the Imprensa Oficial do Amazonas.
 
 Current Domain Interests: Restful APIs best practices and design, Data structures and algorithms, Solid OOP, TDD, Android application development, Responsive Web Design, UX/UI.</p>
 
