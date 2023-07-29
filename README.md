@@ -45,15 +45,4 @@ Current Domain Interests: Restful APIs best practices and design, Data structure
       <img  align="left "src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" heigth="50" width="60" />
     </a>
 </div>
- 
  <br>
- 
- <div align="center">
- 
-![gif](https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif)
-
- </div>
-
-  
-
-
